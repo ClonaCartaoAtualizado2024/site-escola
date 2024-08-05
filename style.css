@@ -28,10 +28,10 @@
 
 .escola {
     background-image: linear-gradient(#b6305d, #eb829c);
-    color: white
+    color: white;
     display: flex;
     justify-content: center;
-    align-items: center 
+    align-items: center;
     padding: 24px 0;
 }
 
@@ -39,3 +39,14 @@
     width: 35%;
 }
 
+.escola-titulo {
+    padding: 24px 0;
+}
+
+.estudante {
+    padding: 24px 0;
+}
+
+.estudante-imagem {
+    width: 120px;
+}
