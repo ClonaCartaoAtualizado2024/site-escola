@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+body {
+    font-family: "Kalam", cursive;
+}
+
 .cabecalho{
     background-color: rgb(121, 7, 41);
     color: rgb(255, 215, 215);
