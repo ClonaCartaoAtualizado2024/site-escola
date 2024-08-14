@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
 * {
     margin: 0;
@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "Kalam", cursive;
+    font-family: "Abel", sans-serif;
 }
 
 .cabecalho{
